@@ -10,7 +10,13 @@ title: Biden Disaster Timeline
 ### January
 - <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/">Biden Executive Order</a> revoking a <a href="https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-combating-race-sex-stereotyping/">Trump Executive Order</a> from 2020, and "empowering minorities" by allowing illegal discriminatory hiring practices in the government.
   
+- <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/proclamation-ending-discriminatory-bans-on-entry-to-the-united-states/">Executive Order</a> ending the discriminatory entry to the U.S, making it easier to enter the country illegally and review already cancelled visas. Revoking the <a href="https://www.dhs.gov/publication/executive-order-13780-protecting-nation-foreign-terrorist-entry-united-states-initial">Executive Order 13780</a> which goal was Protecting the Nation from foreign terrorist entry into the U.S
+
 - <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-public-health-and-environment-and-restoring-science-to-tackle-climate-crisis/">Executive Order</a> cancelling the keystone pipeline.
+
+- <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-the-federal-workforce-and-requiring-mask-wearing/">Executive Order</a> enforcing mask-wearing and compliance with CDC practices for federal workers. Also "encouraging" masking across America. 
+
+- <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-the-revision-of-civil-immigration-enforcement-policies-and-priorities/">Executive Order</a> to revoke <a href="https://www.federalregister.gov/documents/2017/01/30/2017-02102/enhancing-public-safety-in-the-interior-of-the-united-states">Executive Order 13768</a> enhancing public safety in the interior of the U.S, resetting the policies and practices for enforcing civil inmigration laws. Less complex inmigration laws, adress "humanitarian" challenges at the souther border.  
 
 ### February
 ### March
